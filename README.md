@@ -1,6 +1,7 @@
 # NFT-Ticketing-marketplace
 NFT Ticketing marketplace for Chainlink Hackathon
 
+## This project was awarded 15 LINK tokens in the hackathon
 
 We’ve got a product that will take your ticketing to the next level!!
 
